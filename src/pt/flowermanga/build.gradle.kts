@@ -5,11 +5,11 @@ plugins {
 }
 
 keiyoushi {
-    name = "FlowerManga.net"
+    name = "Flower Mangá"
     versionCode = 4
     contentWarning = ContentWarning.MIXED
     libVersion = "1.4"
-    theme = "madara"
+    theme = "mangathemesia"
 
     source {
         lang = "pt-BR"
